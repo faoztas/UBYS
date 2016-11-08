@@ -1,0 +1,213 @@
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Ders_Düzenle.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Ders_Index.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Ogr_Index.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Kayit.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_KayıtDüzenle.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Index.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csproj.GenerateResource.Cache
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Düzenle.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Index.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Index.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Kayit.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_KayıtDüzenle.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Index.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csproj.GenerateResource.Cache
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_NotGir_Index.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Index.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Duzenle.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Devam_Index.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Devam_Ekle.resources
+C:\Users\TrPC\Desktop\WindowsFormsApplication1\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe.config
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe.config
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.pdb
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Düzenle.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Index.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Devam_Ekle.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Devam_Index.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Kullanici_Kaydi.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_NotGir_Index.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Duzenle.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Index.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Index.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Kayit.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_KayıtDüzenle.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Index.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csproj.GenerateResource.Cache
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.exe
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.pdb
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Not_Ekle_Duzenle.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Not_Hesapla.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Hakkımızda.resources
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\itextsharp.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\itextsharp.pdfa.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\itextsharp.xtra.dll
+C:\Users\TrPC\Desktop\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\itextsharp.xml
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe.config
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.exe
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.pdb
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.pdb
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\itextsharp.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\itextsharp.pdfa.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\itextsharp.xtra.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\itextsharp.xml
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Düzenle.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Index.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Devam_Ekle.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Devam_Index.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Hakkımızda.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Kullanici_Kaydi.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_NotGir_Index.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Not_Ekle_Duzenle.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Not_Hesapla.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Duzenle.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Index.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Index.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Kayit.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_KayıtDüzenle.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Index.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csproj.GenerateResource.Cache
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe.manifest
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.application
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.exe.manifest
+C:\Users\TrPC\Desktop\DENEME\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.application
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe.config
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.exe
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.pdb
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe.manifest
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.application
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Üniversite Bilgi Yönetim Sistemi.pdb
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\itextsharp.xml
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Düzenle.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ders_Index.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Devam_Ekle.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Devam_Index.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Hakkımızda.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Kullanici_Kaydi.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_NotGir_Index.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Not_Ekle_Duzenle.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Not_Hesapla.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Duzenle.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Index.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Ogr_Index.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Kayit.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_KayıtDüzenle.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.frm_Index.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csproj.GenerateResource.Cache
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.exe.manifest
+C:\Users\TrPC\Desktop\Projeler\Staj Projesi\Üniversite Bilgi Yönetim Sistemi\Üniversite Bilgi Yönetim Sistemi\obj\Debug\Üniversite Bilgi Yönetim Sistemi.application
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe.config
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\Üniversite Bilgi Yönetim Sistemi.exe
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\Üniversite Bilgi Yönetim Sistemi.pdb
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe.manifest
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\Üniversite Bilgi Yönetim Sistemi.application
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\Üniversite Bilgi Yönetim Sistemi.exe
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\Üniversite Bilgi Yönetim Sistemi.pdb
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\itextsharp.xml
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\UBYS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Ders_Düzenle.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Ders_Index.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Devam_Ekle.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Devam_Index.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.Hakkımızda.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Kullanici_Kaydi.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_NotGir_Index.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Not_Ekle_Duzenle.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Not_Hesapla.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Duzenle.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Ekle.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Ogr_Ders_Index.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Ogr_Index.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Kayit.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_KayıtDüzenle.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.frm_Index.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\Üniversite Bilgi Yönetim Sistemi.csproj.GenerateResource.Cache
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\Üniversite Bilgi Yönetim Sistemi.exe.manifest
+C:\Users\TrPC\Desktop\UBYS\obj\Debug\Üniversite Bilgi Yönetim Sistemi.application

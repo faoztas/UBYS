@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3586AF47-543D-4A51-9BED-381CBC8B243E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>Üniversite Bilgi Yönetim Sistemi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\TrPC\Desktop\Projeler\Staj Projesi\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://localhost/Üniversite Bilgi Yönetim Sistemi/</UpdateUrl>
+    <TargetCulture>tr-TR</TargetCulture>
+    <ProductName>Üniversite Bilgi Yönetim Sistemi</ProductName>
+    <PublisherName>Furkan Anıl ÖZTAŞ</PublisherName>
+    <ApplicationRevision>8</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1474239833_student.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>BDC204DAB0A0FB7505CFDC173BF1CF43A0A108DF</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Üniversite Bilgi Yönetim Sistemi_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>WindowsFormsApplication1.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FastReport, Version=2016.3.22.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c" />
+    <Reference Include="FastReport.Bars, Version=2016.3.22.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c" />
+    <Reference Include="FastReport.Editor, Version=2016.3.22.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c" />
+    <Reference Include="itextsharp, Version=5.4.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBlayer.cs" />
+    <Compile Include="frm_Ders_Düzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ders_Düzenle.Designer.cs">
+      <DependentUpon>frm_Ders_Düzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ders_Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ders_Ekle.Designer.cs">
+      <DependentUpon>frm_Ders_Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ders_Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ders_Index.Designer.cs">
+      <DependentUpon>frm_Ders_Index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Devam_Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Devam_Ekle.Designer.cs">
+      <DependentUpon>frm_Devam_Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Devam_Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Devam_Index.Designer.cs">
+      <DependentUpon>frm_Devam_Index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Hakkimizda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Hakkimizda.Designer.cs">
+      <DependentUpon>frm_Hakkimizda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Kullanici_Kaydi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Kullanici_Kaydi.Designer.cs">
+      <DependentUpon>frm_Kullanici_Kaydi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_NotGir_Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_NotGir_Index.Designer.cs">
+      <DependentUpon>frm_NotGir_Index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Not_Ekle_Duzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Not_Ekle_Duzenle.Designer.cs">
+      <DependentUpon>frm_Not_Ekle_Duzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Not_Hesapla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Not_Hesapla.Designer.cs">
+      <DependentUpon>frm_Not_Hesapla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ogr_Ders_Duzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ogr_Ders_Duzenle.Designer.cs">
+      <DependentUpon>frm_Ogr_Ders_Duzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ogr_Ders_Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ogr_Ders_Ekle.Designer.cs">
+      <DependentUpon>frm_Ogr_Ders_Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ogr_Ders_Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ogr_Ders_Index.Designer.cs">
+      <DependentUpon>frm_Ogr_Ders_Index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ogr_Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ogr_Index.Designer.cs">
+      <DependentUpon>frm_Ogr_Index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Kayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Kayit.Designer.cs">
+      <DependentUpon>frm_Kayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_KayıtDüzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_KayıtDüzenle.Designer.cs">
+      <DependentUpon>frm_KayıtDüzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.Designer.cs">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Index.Designer.cs">
+      <DependentUpon>frm_Index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HashLayer.cs" />
+    <Compile Include="iTextSharp\text\Color.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm_Ders_Düzenle.resx">
+      <DependentUpon>frm_Ders_Düzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ders_Ekle.resx">
+      <DependentUpon>frm_Ders_Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ders_Index.resx">
+      <DependentUpon>frm_Ders_Index.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Devam_Ekle.resx">
+      <DependentUpon>frm_Devam_Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Devam_Index.resx">
+      <DependentUpon>frm_Devam_Index.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Hakkimizda.resx">
+      <DependentUpon>frm_Hakkimizda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Kullanici_Kaydi.resx">
+      <DependentUpon>frm_Kullanici_Kaydi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_NotGir_Index.resx">
+      <DependentUpon>frm_NotGir_Index.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Not_Ekle_Duzenle.resx">
+      <DependentUpon>frm_Not_Ekle_Duzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Not_Hesapla.resx">
+      <DependentUpon>frm_Not_Hesapla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ogr_Ders_Duzenle.resx">
+      <DependentUpon>frm_Ogr_Ders_Duzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ogr_Ders_Ekle.resx">
+      <DependentUpon>frm_Ogr_Ders_Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ogr_Ders_Index.resx">
+      <DependentUpon>frm_Ogr_Ders_Index.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ogr_Index.resx">
+      <DependentUpon>frm_Ogr_Index.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Kayit.resx">
+      <DependentUpon>frm_Kayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_KayıtDüzenle.resx">
+      <DependentUpon>frm_KayıtDüzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Login.resx">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Index.resx">
+      <DependentUpon>frm_Index.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\DBLayer.datasource" />
+    <None Include="Properties\DataSources\frm_Ders_Düzenle.datasource" />
+    <None Include="Properties\DataSources\frm_Ders_Ekle.datasource" />
+    <None Include="Properties\DataSources\frm_Ders_Index.datasource" />
+    <None Include="Properties\DataSources\frm_Devam_Ekle.datasource" />
+    <None Include="Properties\DataSources\frm_Devam_Index.datasource" />
+    <None Include="Properties\DataSources\frm_Index.datasource" />
+    <None Include="Properties\DataSources\frm_Kayit.datasource" />
+    <None Include="Properties\DataSources\frm_KayıtDüzenle.datasource" />
+    <None Include="Properties\DataSources\frm_Kullanici_Kaydi.datasource" />
+    <None Include="Properties\DataSources\frm_NotGir_Index.datasource" />
+    <None Include="Properties\DataSources\frm_Not_Ekle_Duzenle.datasource" />
+    <None Include="Properties\DataSources\frm_Not_Hesapla.datasource" />
+    <None Include="Properties\DataSources\frm_Ogr_Ders_Duzenle.datasource" />
+    <None Include="Properties\DataSources\frm_Ogr_Ders_Ekle.datasource" />
+    <None Include="Properties\DataSources\frm_Ogr_Ders_Index.datasource" />
+    <None Include="Properties\DataSources\frm_Ogr_Index.datasource" />
+    <None Include="Properties\DataSources\Hakkımızda.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ders_BilgiDataTable.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ders_BilgiRow.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ders_BilgiRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ders_BilgiRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Kullanici_KaydiDataTable.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Kullanici_KaydiRow.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Kullanici_KaydiRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Kullanici_KaydiRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_DersDataTable.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_DersRow.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_DersRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_DersRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_KaydiDataTable.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_KaydiRow.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_KaydiRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_KaydiRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_NotDataTable.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_NotRow.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_NotRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\KayıtDataSet.Ogrenci_NotRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\Login.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\DataSources\WindowsFormsApplication1.KayıtDataSetTableAdapters.Ders_BilgiTableAdapter.datasource" />
+    <None Include="Properties\DataSources\WindowsFormsApplication1.KayıtDataSetTableAdapters.Kullanici_KaydiTableAdapter.datasource" />
+    <None Include="Properties\DataSources\WindowsFormsApplication1.KayıtDataSetTableAdapters.Ogrenci_DersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\WindowsFormsApplication1.KayıtDataSetTableAdapters.Ogrenci_KaydiTableAdapter.datasource" />
+    <None Include="Properties\DataSources\WindowsFormsApplication1.KayıtDataSetTableAdapters.Ogrenci_NotTableAdapter.datasource" />
+    <None Include="Properties\DataSources\WindowsFormsApplication1.KayıtDataSetTableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\DataSources\WindowsFormsApplication1.KayıtDataSetTableAdapters.TableAdapterManager.datasource" />
+    <None Include="Properties\DataSources\WindowsFormsApplication1.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\WindowsFormsApplication1.Properties.Settings.datasource" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Üniversite Bilgi Yönetim Sistemi_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1474239833_student.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
